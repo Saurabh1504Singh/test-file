@@ -7,6 +7,7 @@ for i in range(1,num+1,2):
     print(" "*space,end="")
     print("*"*i)
     space=space-1
+	print("Hello")
 
 
 space=1
